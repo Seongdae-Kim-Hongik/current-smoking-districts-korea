@@ -1,0 +1,851 @@
+{
+ "bell2015explaining": {
+  "type": "journal",
+  "authors": [
+   "Bell A",
+   "Jones K"
+  ],
+  "title": "Explaining Fixed Effects: random Effects Modeling of Time-Series Cross-Sectional and Panel Data",
+  "journal": "Polit Sci Res Methods",
+  "year": 2015,
+  "vol": "3",
+  "issue": "1",
+  "pages": "133-153",
+  "doi": "10.1017/psrm.2014.7",
+  "fulljournal": "Political Science Research and Methods"
+ },
+ "dupont2022spatial": {
+  "type": "journal",
+  "authors": [
+   "Dupont E",
+   "Wood SN",
+   "Augustin NH"
+  ],
+  "title": "Spatial+: a novel approach to spatial confounding",
+  "journal": "Biometrics",
+  "year": 2022,
+  "vol": "78",
+  "issue": "4",
+  "pages": "1279-1290",
+  "doi": "10.1111/biom.13656",
+  "pmid": "35258102",
+  "fulljournal": "Biometrics"
+ },
+ "fay1979estimates": {
+  "type": "journal",
+  "authors": [
+   "Fay RE",
+   "Herriot RA"
+  ],
+  "title": "Estimates of income for small places: an application of James-Stein procedures to census data",
+  "journal": "J Am Stat Assoc",
+  "year": 1979,
+  "vol": "74",
+  "issue": "366",
+  "pages": "269-277",
+  "doi": "10.1080/01621459.1979.10482505",
+  "fulljournal": "Journal of the American Statistical Association"
+ },
+ "greenland1989ecological": {
+  "type": "journal",
+  "authors": [
+   "Greenland S",
+   "Morgenstern H"
+  ],
+  "title": "Ecological bias, confounding, and effect modification",
+  "journal": "Int J Epidemiol",
+  "year": 1989,
+  "vol": "18",
+  "issue": "1",
+  "pages": "269-274",
+  "doi": "10.1093/ije/18.1.269",
+  "pmid": "2656561",
+  "fulljournal": "International journal of epidemiology"
+ },
+ "hodges2010adding": {
+  "type": "journal",
+  "authors": [
+   "Hodges JS",
+   "Reich BJ"
+  ],
+  "title": "Adding spatially-correlated errors can mess up the fixed effect you love",
+  "journal": "Am Stat",
+  "year": 2010,
+  "vol": "64",
+  "issue": "4",
+  "pages": "325-334",
+  "doi": "10.1198/tast.2010.10052",
+  "fulljournal": "The American Statistician"
+ },
+ "kang2015korea": {
+  "type": "journal",
+  "authors": [
+   "Kang YW",
+   "Ko YS",
+   "Kim YJ",
+   "Sung KM",
+   "Kim HJ",
+   "Choi HY",
+   "Sung C",
+   "Jeong E"
+  ],
+  "title": "Korea Community Health Survey data profiles",
+  "journal": "Osong Public Health Res Perspect",
+  "year": 2015,
+  "vol": "6",
+  "issue": "3",
+  "pages": "211-217",
+  "doi": "10.1016/j.phrp.2015.05.003",
+  "pmid": "26430619",
+  "fulljournal": "Osong public health and research perspectives"
+ },
+ "knorrheld2000bayesian": {
+  "type": "journal",
+  "authors": [
+   "Knorr-Held L"
+  ],
+  "title": "Bayesian modelling of inseparable space-time variation in disease risk",
+  "journal": "Stat Med",
+  "year": 2000,
+  "vol": "19",
+  "issue": "17-18",
+  "pages": "2555-2567",
+  "doi": "10.1002/1097-0258(20000915/30)19:17/18<2555::aid-sim587>3.0.co;2-#",
+  "pmid": "10960871",
+  "fulljournal": "Statistics in medicine"
+ },
+ "lee2020associations": {
+  "type": "journal",
+  "authors": [
+   "Lee SW",
+   "Han B",
+   "Cho SJ",
+   "Jung SJ",
+   "Huh Y",
+   "Kim J",
+   "Eum DH",
+   "Kim T",
+   "Min SH",
+   "Lee W",
+   "Cho J",
+   "Kwon MH",
+   "Nam GE"
+  ],
+  "title": "Associations between Living Alone and Smoking and Alcohol Consumption in Korean Adults",
+  "journal": "Korean J Fam Med",
+  "year": 2020,
+  "vol": "41",
+  "issue": "5",
+  "pages": "306-311",
+  "doi": "10.4082/kjfm.18.0148",
+  "pmid": "32450678",
+  "fulljournal": "Korean journal of family medicine"
+ },
+ "mercer2015space": {
+  "type": "journal",
+  "authors": [
+   "Mercer LD",
+   "Wakefield J",
+   "Pantazis A",
+   "Lutambi AM",
+   "Masanja H",
+   "Clark S"
+  ],
+  "title": "Space-time smoothing of complex survey data: small area estimation for child mortality",
+  "journal": "Ann Appl Stat",
+  "year": 2015,
+  "vol": "9",
+  "issue": "4",
+  "pages": "1889-1905",
+  "doi": "10.1214/15-AOAS872",
+  "pmid": "27468328",
+  "fulljournal": "The annals of applied statistics"
+ },
+ "riebler2016intuitive": {
+  "type": "journal",
+  "authors": [
+   "Riebler A",
+   "Sørbye SH",
+   "Simpson D",
+   "Rue H"
+  ],
+  "title": "An intuitive Bayesian spatial model for disease mapping that accounts for scaling",
+  "journal": "Stat Methods Med Res",
+  "year": 2016,
+  "vol": "25",
+  "issue": "4",
+  "pages": "1145-1165",
+  "doi": "10.1177/0962280216660421",
+  "pmid": "27566770",
+  "fulljournal": "Statistical methods in medical research"
+ },
+ "rue2009approximate": {
+  "type": "journal",
+  "authors": [
+   "Rue H",
+   "Martino S",
+   "Chopin N"
+  ],
+  "title": "Approximate Bayesian inference for latent Gaussian models by using integrated nested Laplace approximations",
+  "journal": "J R Stat Soc Series B Stat Methodol",
+  "year": 2009,
+  "vol": "71",
+  "issue": "2",
+  "pages": "319-392",
+  "doi": "10.1111/j.1467-9868.2008.00700.x",
+  "fulljournal": "Journal of the Royal Statistical Society Series B: Statistical Methodology"
+ },
+ "simpson2017penalising": {
+  "type": "journal",
+  "authors": [
+   "Simpson D",
+   "Rue H",
+   "Riebler A",
+   "Martins TG",
+   "Sørbye SH"
+  ],
+  "title": "Penalising model component complexity: a principled, practical approach to constructing priors",
+  "journal": "Stat Sci",
+  "year": 2017,
+  "vol": "32",
+  "issue": "1",
+  "pages": "1-28",
+  "doi": "10.1214/16-STS576",
+  "fulljournal": "Statistical Science"
+ },
+ "steegen2016increasing": {
+  "type": "journal",
+  "authors": [
+   "Steegen S",
+   "Tuerlinckx F",
+   "Gelman A",
+   "Vanpaemel W"
+  ],
+  "title": "Increasing transparency through a multiverse analysis",
+  "journal": "Perspect Psychol Sci",
+  "year": 2016,
+  "vol": "11",
+  "issue": "5",
+  "pages": "702-712",
+  "doi": "10.1177/1745691616658637",
+  "pmid": "27694465",
+  "fulljournal": "Perspectives on psychological science : a journal of the Association for Psychological Science"
+ },
+ "vonelm2007strengthening": {
+  "type": "journal",
+  "authors": [
+   "von Elm E",
+   "Altman DG",
+   "Egger M",
+   "Pocock SJ",
+   "Gøtzsche PC",
+   "Vandenbroucke JP"
+  ],
+  "title": "The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies",
+  "journal": "Lancet",
+  "year": 2007,
+  "vol": "370",
+  "issue": "9596",
+  "pages": "1453-1457",
+  "doi": "10.1016/S0140-6736(07)61602-X",
+  "pmid": "18064739",
+  "fulljournal": "Lancet (London, England)"
+ },
+ "web:kdca2026kchs": {
+  "type": "web",
+  "authors": "Korea Disease Control and Prevention Agency",
+  "title": "Korea Community Health Survey: district current smoking prevalence (table DT_H_SM) and health behaviour indicators, 2011-2024. Korean Statistical Information Service",
+  "url": "https://kosis.kr",
+  "year": 2026,
+  "accessed": "November 19, 2026"
+ },
+ "web:kosis2026": {
+  "type": "web",
+  "authors": "Statistics Korea",
+  "title": "Population and housing census, vital statistics, and basic livelihood security recipients by district, 2011-2024. Korean Statistical Information Service",
+  "url": "https://kosis.kr",
+  "year": 2026,
+  "accessed": "November 19, 2026"
+ },
+ "web:mois2026licensing": {
+  "type": "web",
+  "authors": "Ministry of the Interior and Safety",
+  "title": "Local administrative licensing data: entertainment bars and singing bars, 2011-2024. Public Data Portal",
+  "url": "https://www.data.go.kr",
+  "year": 2026,
+  "accessed": "November 19, 2026"
+ },
+ "web:rcore2026": {
+  "type": "web",
+  "authors": "R Core Team",
+  "title": "R: a language and environment for statistical computing. Vienna: R Foundation for Statistical Computing",
+  "url": "https://www.R-project.org",
+  "year": 2026,
+  "accessed": "November 19, 2026"
+ },
+ "bui2024determinants": {
+  "type": "journal",
+  "authors": [
+   "Bui TT",
+   "Nguyen THT",
+   "Lee J",
+   "Kim SY",
+   "Oh JK"
+  ],
+  "title": "Determinants of unhealthy living by gender, age group, and chronic health conditions across districts in Korea using the 2010-2017 Community Health Surveys",
+  "journal": "Epidemiol Health",
+  "year": 2024,
+  "vol": "46",
+  "issue": "",
+  "pages": "e2024014",
+  "doi": "10.4178/epih.e2024014",
+  "pmid": "38228089",
+  "fulljournal": "Epidemiology and health"
+ },
+ "chang2018trends": {
+  "type": "journal",
+  "authors": [
+   "Chang Y",
+   "Cho S",
+   "Kim I",
+   "Bahk J",
+   "Khang YH"
+  ],
+  "title": "Trends in Inequality in Cigarette Smoking Prevalence by Income According to Recent Anti-smoking Policies in Korea: Use of Three National Surveys",
+  "journal": "J Prev Med Public Health",
+  "year": 2018,
+  "vol": "51",
+  "issue": "6",
+  "pages": "310-319",
+  "doi": "10.3961/jpmph.18.225",
+  "pmid": "30514061",
+  "fulljournal": "Journal of preventive medicine and public health = Yebang Uihakhoe chi"
+ },
+ "chang2019long": {
+  "type": "journal",
+  "authors": [
+   "Chang Y",
+   "Kang HY",
+   "Lim D",
+   "Cho HJ",
+   "Khang YH"
+  ],
+  "title": "Long-term trends in smoking prevalence and its socioeconomic inequalities in Korea, 1992-2016",
+  "journal": "Int J Equity Health",
+  "year": 2019,
+  "vol": "18",
+  "issue": "1",
+  "pages": "148",
+  "doi": "10.1186/s12939-019-1051-x",
+  "pmid": "31533732",
+  "fulljournal": "International journal for equity in health"
+ },
+ "cheon2020factors": {
+  "type": "journal",
+  "authors": [
+   "Cheon Y",
+   "Park J",
+   "Jeong BY",
+   "Park EY",
+   "Oh JK",
+   "Yun EH",
+   "Lim MK"
+  ],
+  "title": "Factors associated with psychological stress and distress among Korean adults: the results from Korea National Health and Nutrition Examination Survey",
+  "journal": "Sci Rep",
+  "year": 2020,
+  "vol": "10",
+  "issue": "1",
+  "pages": "15134",
+  "doi": "10.1038/s41598-020-71789-y",
+  "pmid": "32934275",
+  "fulljournal": "Scientific reports"
+ },
+ "cho2008marital": {
+  "type": "journal",
+  "authors": [
+   "Cho HJ",
+   "Khang YH",
+   "Jun HJ",
+   "Kawachi I"
+  ],
+  "title": "Marital status and smoking in Korea: the influence of gender and age",
+  "journal": "Soc Sci Med",
+  "year": 2008,
+  "vol": "66",
+  "issue": "3",
+  "pages": "609-619",
+  "doi": "10.1016/j.socscimed.2007.10.005",
+  "pmid": "17996346",
+  "fulljournal": "Social science & medicine (1982)"
+ },
+ "cho2014status": {
+  "type": "journal",
+  "authors": [
+   "Cho HJ"
+  ],
+  "title": "The status and future challenges of tobacco control policy in Korea",
+  "journal": "J Prev Med Public Health",
+  "year": 2014,
+  "vol": "47",
+  "issue": "3",
+  "pages": "129-135",
+  "doi": "10.3961/jpmph.2014.47.3.129",
+  "pmid": "24921015",
+  "fulljournal": "Journal of preventive medicine and public health = Yebang Uihakhoe chi"
+ },
+ "cui2012small": {
+  "type": "journal",
+  "authors": [
+   "Cui Y",
+   "Baldwin SB",
+   "Lightstone AS",
+   "Shih M",
+   "Yu H",
+   "Teutsch S"
+  ],
+  "title": "Small area estimates reveal high cigarette smoking prevalence in low-income cities of Los Angeles county",
+  "journal": "J Urban Health",
+  "year": 2012,
+  "vol": "89",
+  "issue": "3",
+  "pages": "397-406",
+  "doi": "10.1007/s11524-011-9615-0",
+  "pmid": "21947903",
+  "fulljournal": "Journal of urban health : bulletin of the New York Academy of Medicine"
+ },
+ "duncan1999smoking": {
+  "type": "journal",
+  "authors": [
+   "Duncan C",
+   "Jones K",
+   "Moon G"
+  ],
+  "title": "Smoking and deprivation: are there neighbourhood effects?",
+  "journal": "Soc Sci Med",
+  "year": 1999,
+  "vol": "48",
+  "issue": "4",
+  "pages": "497-505",
+  "doi": "10.1016/s0277-9536(98)00360-8",
+  "pmid": "10075175",
+  "fulljournal": "Social science & medicine (1982)"
+ },
+ "dwyerlindgren2014cigarette": {
+  "type": "journal",
+  "authors": [
+   "Dwyer-Lindgren L",
+   "Mokdad AH",
+   "Srebotnjak T",
+   "Flaxman AD",
+   "Hansen GM",
+   "Murray CJ"
+  ],
+  "title": "Cigarette smoking prevalence in US counties: 1996-2012",
+  "journal": "Popul Health Metr",
+  "year": 2014,
+  "vol": "12",
+  "issue": "1",
+  "pages": "5",
+  "doi": "10.1186/1478-7954-12-5",
+  "pmid": "24661401",
+  "fulljournal": "Population health metrics"
+ },
+ "fujiwara2018smoking": {
+  "type": "journal",
+  "authors": [
+   "Fujiwara M",
+   "Inagaki M",
+   "Nakaya N",
+   "Fujimori M",
+   "Higuchi Y",
+   "Kakeda K",
+   "Uchitomi Y",
+   "Yamada N"
+  ],
+  "title": "Smoking among adults with serious psychological distress: Analysis of anonymized data from a national cross-sectional survey in Japan",
+  "journal": "J Affect Disord",
+  "year": 2018,
+  "vol": "239",
+  "issue": "",
+  "pages": "131-137",
+  "doi": "10.1016/j.jad.2018.07.008",
+  "pmid": "30005326",
+  "fulljournal": "Journal of affective disorders"
+ },
+ "jang2026living": {
+  "type": "journal",
+  "authors": [
+   "Jang S"
+  ],
+  "title": "Living Alone as a Persistent Risk Factor for Smoking and High-Risk Drinking: A Three-Year Repeated Cross-Sectional Analysis Before and During the COVID-19 Pandemic in the Republic of Korea",
+  "journal": "Healthcare (Basel)",
+  "year": 2026,
+  "vol": "14",
+  "issue": "9",
+  "pages": "1251",
+  "doi": "10.3390/healthcare14091251",
+  "pmid": "42121692",
+  "fulljournal": "Healthcare (Basel, Switzerland)"
+ },
+ "jee2019health": {
+  "type": "journal",
+  "authors": [
+   "Jee Y",
+   "Cho Y"
+  ],
+  "title": "Health behaviors and health status of Korean middleaged men by marital status: Korea Community Health Study, 2015",
+  "journal": "Epidemiol Health",
+  "year": 2019,
+  "vol": "41",
+  "issue": "",
+  "pages": "e2019019",
+  "doi": "10.4178/epih.e2019019",
+  "pmid": "31096748",
+  "fulljournal": "Epidemiology and health"
+ },
+ "jeon2020health": {
+  "type": "journal",
+  "authors": [
+   "Jeon YJ",
+   "Pyo J",
+   "Park YK",
+   "Ock M"
+  ],
+  "title": "Health behaviors in major chronic diseases patients: trends and regional variations analysis, 2008-2017, Korea",
+  "journal": "BMC Public Health",
+  "year": 2020,
+  "vol": "20",
+  "issue": "1",
+  "pages": "1813",
+  "doi": "10.1186/s12889-020-09940-7",
+  "pmid": "33246439",
+  "fulljournal": "BMC public health"
+ },
+ "jungchoi2012hidden": {
+  "type": "journal",
+  "authors": [
+   "Jung-Choi KH",
+   "Khang YH",
+   "Cho HJ"
+  ],
+  "title": "Hidden female smokers in Asia: a comparison of self-reported with cotinine-verified smoking prevalence rates in representative national data from an Asian population",
+  "journal": "Tob Control",
+  "year": 2012,
+  "vol": "21",
+  "issue": "6",
+  "pages": "536-542",
+  "doi": "10.1136/tobaccocontrol-2011-050012",
+  "pmid": "21972062",
+  "fulljournal": "Tobacco control"
+ },
+ "kassel2003smoking": {
+  "type": "journal",
+  "authors": [
+   "Kassel JD",
+   "Stroud LR",
+   "Paronis CA"
+  ],
+  "title": "Smoking, stress, and negative affect: correlation, causation, and context across stages of smoking",
+  "journal": "Psychol Bull",
+  "year": 2003,
+  "vol": "129",
+  "issue": "2",
+  "pages": "270-304",
+  "doi": "10.1037/0033-2909.129.2.270",
+  "pmid": "12696841",
+  "fulljournal": "Psychological bulletin"
+ },
+ "khan2022restricted": {
+  "type": "journal",
+  "authors": [
+   "Khan K",
+   "Calder CA"
+  ],
+  "title": "Restricted spatial regression methods: implications for inference",
+  "journal": "J Am Stat Assoc",
+  "year": 2022,
+  "vol": "117",
+  "issue": "537",
+  "pages": "482-494",
+  "doi": "10.1080/01621459.2020.1788949",
+  "pmid": "36210885",
+  "fulljournal": "Journal of the American Statistical Association"
+ },
+ "khang2009impact": {
+  "type": "journal",
+  "authors": [
+   "Khang YH",
+   "Yun SC",
+   "Cho HJ",
+   "Jung-Choi K"
+  ],
+  "title": "The impact of governmental antismoking policy on socioeconomic disparities in cigarette smoking in South Korea",
+  "journal": "Nicotine Tob Res",
+  "year": 2009,
+  "vol": "11",
+  "issue": "3",
+  "pages": "262-269",
+  "doi": "10.1093/ntr/ntn036",
+  "pmid": "19251768",
+  "fulljournal": "Nicotine & tobacco research : official journal of the Society for Research on Nicotine and Tobacco"
+ },
+ "kim2016impact": {
+  "type": "journal",
+  "authors": [
+   "Kim J",
+   "Ban H",
+   "Hwang Y",
+   "Ha K",
+   "Lee K"
+  ],
+  "title": "Impact of Partial and Comprehensive Smoke-Free Regulations on Indoor Air Quality in Bars",
+  "journal": "Int J Environ Res Public Health",
+  "year": 2016,
+  "vol": "13",
+  "issue": "8",
+  "pages": "754",
+  "doi": "10.3390/ijerph13080754",
+  "pmid": "27472349",
+  "fulljournal": "International journal of environmental research and public health"
+ },
+ "kim2021trends": {
+  "type": "journal",
+  "authors": [
+   "Kim S",
+   "Choi S",
+   "Kim J",
+   "Park S",
+   "Kim YT",
+   "Park O",
+   "Oh K"
+  ],
+  "title": "Trends in health behaviors over 20 years: findings from the 1998-2018 Korea National Health and Nutrition Examination Survey",
+  "journal": "Epidemiol Health",
+  "year": 2021,
+  "vol": "43",
+  "issue": "",
+  "pages": "e2021026",
+  "doi": "10.4178/epih.e2021026",
+  "pmid": "33872483",
+  "fulljournal": "Epidemiology and health"
+ },
+ "kim2024changes": {
+  "type": "journal",
+  "authors": [
+   "Kim SJ",
+   "Park BY"
+  ],
+  "title": "Changes in smoking patterns and characteristics of Koreans using the Korea National Health and Nutrition Examination Survey 2013-2021 data",
+  "journal": "Public Health",
+  "year": 2024,
+  "vol": "227",
+  "issue": "",
+  "pages": "259-266",
+  "doi": "10.1016/j.puhe.2023.12.017",
+  "pmid": "38301303",
+  "fulljournal": "Public health"
+ },
+ "lee2021effects": {
+  "type": "journal",
+  "authors": [
+   "Lee B",
+   "Seo DC"
+  ],
+  "title": "Effects of an 80% cigarette price increase on quit attempts, successful quitting and smoking intensity among Korean adult smokers: results from nationally representative longitudinal panel data",
+  "journal": "Tob Control",
+  "year": 2021,
+  "vol": "30",
+  "issue": "3",
+  "pages": "336-343",
+  "doi": "10.1136/tobaccocontrol-2019-055518",
+  "pmid": "32269171",
+  "fulljournal": "Tobacco control"
+ },
+ "lee2026trends": {
+  "type": "journal",
+  "authors": [
+   "Lee JA",
+   "Cho HJ",
+   "Lim MK",
+   "Kawachi I"
+  ],
+  "title": "Trends in hidden smoking among women in South Korea, 2008-2021: a comparison of self-reported and cotinine-verified smoking prevalence",
+  "journal": "Tob Control",
+  "year": 2026,
+  "vol": "",
+  "issue": "",
+  "pages": "",
+  "doi": "10.1136/tc-2026-060294",
+  "pmid": "42823346",
+  "fulljournal": "Tobacco control"
+ },
+ "lim2010influence": {
+  "type": "journal",
+  "authors": [
+   "Lim S",
+   "Chung W",
+   "Kim H",
+   "Lee S"
+  ],
+  "title": "The influence of housing tenure and marital status on smoking in South Korea",
+  "journal": "Health Policy",
+  "year": 2010,
+  "vol": "94",
+  "issue": "2",
+  "pages": "101-110",
+  "doi": "10.1016/j.healthpol.2009.08.013",
+  "pmid": "19783317",
+  "fulljournal": "Health policy (Amsterdam, Netherlands)"
+ },
+ "noh2020impacts": {
+  "type": "journal",
+  "authors": [
+   "Noh JW",
+   "Choi M",
+   "Kwon YD",
+   "Yoo KB"
+  ],
+  "title": "Impacts of Smoking Ban Policies on Restaurants in Seoul, South Korea: Analysis of Objective Sales Information",
+  "journal": "Nicotine Tob Res",
+  "year": 2020,
+  "vol": "22",
+  "issue": "6",
+  "pages": "950-957",
+  "doi": "10.1093/ntr/ntz079",
+  "pmid": "31083716",
+  "fulljournal": "Nicotine & tobacco research : official journal of the Society for Research on Nicotine and Tobacco"
+ },
+ "nystedt2006marital": {
+  "type": "journal",
+  "authors": [
+   "Nystedt P"
+  ],
+  "title": "Marital life course events and smoking behaviour in Sweden 1980-2000",
+  "journal": "Soc Sci Med",
+  "year": 2006,
+  "vol": "62",
+  "issue": "6",
+  "pages": "1427-1442",
+  "doi": "10.1016/j.socscimed.2005.08.009",
+  "pmid": "16162388",
+  "fulljournal": "Social science & medicine (1982)"
+ },
+ "park2010area": {
+  "type": "journal",
+  "authors": [
+   "Park EJ",
+   "Kim H",
+   "Kawachi I",
+   "Kim IH",
+   "Cho SI"
+  ],
+  "title": "Area deprivation, individual socioeconomic position and smoking among women in South Korea",
+  "journal": "Tob Control",
+  "year": 2010,
+  "vol": "19",
+  "issue": "5",
+  "pages": "383-390",
+  "doi": "10.1136/tc.2009.032763",
+  "pmid": "20675689",
+  "fulljournal": "Tobacco control"
+ },
+ "rathee2026bidirectional": {
+  "type": "journal",
+  "authors": [
+   "Rathee A",
+   "Belsiyal C X",
+   "Pushpa P",
+   "Sarkar S",
+   "Gupta S"
+  ],
+  "title": "Bidirectional Associations Between Alcohol and Tobacco Use in Adults: A Systematic Review of Quantitative Studies on Reciprocal Influences",
+  "journal": "Subst Use Misuse",
+  "year": 2026,
+  "vol": "61",
+  "issue": "14",
+  "pages": "3010-3016",
+  "doi": "10.1080/10826084.2026.2687753",
+  "pmid": "42360720",
+  "fulljournal": "Substance use & misuse"
+ },
+ "seliske2016estimating": {
+  "type": "journal",
+  "authors": [
+   "Seliske L",
+   "Norwood TA",
+   "McLaughlin JR",
+   "Wang S",
+   "Palleschi C",
+   "Holowaty E"
+  ],
+  "title": "Estimating micro area behavioural risk factor prevalence from large population-based surveys: a full Bayesian approach",
+  "journal": "BMC Public Health",
+  "year": 2016,
+  "vol": "16",
+  "issue": "",
+  "pages": "478",
+  "doi": "10.1186/s12889-016-3144-4",
+  "pmid": "27266873",
+  "fulljournal": "BMC public health"
+ },
+ "simonavicius2025psychological": {
+  "type": "journal",
+  "authors": [
+   "Simonavičius E",
+   "Perman-Howe PR",
+   "Robson D",
+   "McNeill A",
+   "Kock L",
+   "Brown J",
+   "Brose LS"
+  ],
+  "title": "Psychological distress, tobacco smoking and alcohol use: A population survey in Great Britain",
+  "journal": "Addict Behav Rep",
+  "year": 2025,
+  "vol": "21",
+  "issue": "",
+  "pages": "100604",
+  "doi": "10.1016/j.abrep.2025.100604",
+  "pmid": "40256628",
+  "fulljournal": "Addictive behaviors reports"
+ },
+ "yang2026trends": {
+  "type": "journal",
+  "authors": [
+   "Yang WJ"
+  ],
+  "title": "Trends in Combustible Cigarette Smoking, Electronic Cigarette Use, and Related Behaviors among Korean Adults: An 11-Year Analysis of Data from the Korea National Health and Nutrition Examination Survey (2013-2023)",
+  "journal": "Tuberc Respir Dis (Seoul)",
+  "year": 2026,
+  "vol": "89",
+  "issue": "2",
+  "pages": "245-256",
+  "doi": "10.4046/trd.2025.0201",
+  "pmid": "41713845",
+  "fulljournal": "Tuberculosis and respiratory diseases"
+ },
+ "yun2015household": {
+  "type": "journal",
+  "authors": [
+   "Yun WJ",
+   "Rhee JA",
+   "Kim SA",
+   "Kweon SS",
+   "Lee YH",
+   "Ryu SY",
+   "Park SW",
+   "Kim DH",
+   "Shin MH"
+  ],
+  "title": "Household and area income levels are associated with smoking status in the Korean adult population",
+  "journal": "BMC Public Health",
+  "year": 2015,
+  "vol": "15",
+  "issue": "",
+  "pages": "39",
+  "doi": "10.1186/s12889-015-1365-6",
+  "pmid": "25636365",
+  "fulljournal": "BMC public health"
+ }
+}
